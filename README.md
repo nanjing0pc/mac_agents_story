@@ -28,7 +28,7 @@
 
 作者：[NANJING0PC](https://github.com/nanjing0pc)  
 
-
+订阅更新：[RSS](https://github.com/nanjing0pc/mac_agents_story/releases.atom)  
 
 ## Donate
 
