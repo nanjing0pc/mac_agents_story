@@ -1,4 +1,4 @@
-# [故事连载]我的AI老板果宝特攻
+# [故事连载]我的数字小跟班特工MD5
 
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
